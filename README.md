@@ -1,1 +1,1 @@
-These are simple and easy level codes based on python
+python program of easy, medium and high level codes
