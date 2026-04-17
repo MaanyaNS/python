@@ -1,1 +1,3 @@
-python program of easy, medium and high level codes
+Simple Python programs:
+- Guess random number
+- Quiz game
