@@ -15,7 +15,6 @@ def remove_item(item, quantity):
             inventory[item] -= quantity
             print(f"{quantity} units of {item} removed from inventory.\n")
 
-            # Remove item if quantity becomes 0
             if inventory[item] == 0:
                 del inventory[item]
         else:
